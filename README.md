@@ -8,10 +8,10 @@ A super simple and minimal To-Do List web app using HTML, CSS, and JavaScript.
 - Delete tasks
 - Tasks are saved in `localStorage`
 - Clean and responsive UI
-
+<!--
 ## 📷 Preview
 
-![screenshot](screenshot.png) <!-- optional if you want to add screenshot -->
+![screenshot](screenshot.png) 
 
 ## 📁 How to Use
 
@@ -19,3 +19,4 @@ A super simple and minimal To-Do List web app using HTML, CSS, and JavaScript.
    ```bash
    git clone https://github.com/chdsssbaba/Project-To-Do-List-App.git
    cd Project-To-Do-List-App
+-->
