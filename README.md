@@ -8,6 +8,8 @@ A super simple and minimal To-Do List web app using HTML, CSS, and JavaScript.
 - Delete tasks
 - Tasks are saved in `localStorage`
 - Clean and responsive UI
+
+# Link 🔗 : https://project-to-do-list-app.netlify.app/
 <!--
 ## 📷 Preview
 
