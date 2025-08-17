@@ -17,5 +17,5 @@ A super simple and minimal To-Do List web app using HTML, CSS, and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chdsssbaba/todo-app.git
-   cd todo-app
+   git clone https://github.com/chdsssbaba/Project-To-Do-List-App.git
+   cd Project-To-Do-List-App
